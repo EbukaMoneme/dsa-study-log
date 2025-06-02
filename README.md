@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Notes 🧠
 
-Welcome! This is my personal repository for studying and practicing **Data Structures and Algorithms (DSA)**. I'm using this repo to track my learning progress, organize concepts, and store solutions to coding problems.
+This is my personal repository for studying and practicing **Data Structures and Algorithms (DSA)**. I'm using this repo to track my learning progress, organize concepts, and store solutions to coding problems.
 
 ---
 
@@ -19,6 +19,16 @@ Explanations, examples, and implementations of common data structures:
 - Graphs
 - Tries
 
+### `algorithms/`
+Core algorithms implemented in Python with explanations:
+- Search Algorithms (Linear Search, Binary Search)
+- Sorting Algorithms (Bubble, Merge, Quick, etc.)
+- Tree Traversals (In-order, Pre-order, Post-order, Level-order)
+- Recursion & Backtracking
+- Graph Algorithms (DFS, BFS, Dijkstra’s, Union-Find)
+- Dynamic Programming (Memoization, Tabulation)
+- Greedy Algorithms
+
 ### `patterns/`
 Common algorithmic patterns and their use-cases:
 - Sliding Window
@@ -33,16 +43,6 @@ Solutions to coding problems I've attempted, with comments and explanations when
 - `001-two-sum.js`
 - `021-merge-two-sorted-lists.py`
 - `104-maximum-depth-of-binary-tree.ts`
-
-### `algorithms/`
-Core algorithms implemented in Python with explanations:
-- Search Algorithms (Linear Search, Binary Search)
-- Sorting Algorithms (Bubble, Merge, Quick, etc.)
-- Tree Traversals (In-order, Pre-order, Post-order, Level-order)
-- Recursion & Backtracking
-- Graph Algorithms (DFS, BFS, Dijkstra’s, Union-Find)
-- Dynamic Programming (Memoization, Tabulation)
-- Greedy Algorithms
 
 ---
 
