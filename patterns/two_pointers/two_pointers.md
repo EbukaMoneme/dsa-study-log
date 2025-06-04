@@ -9,13 +9,13 @@
 ### Example
 <!-- ![Two Pointers Example 1](./imgs/example_1.png) -->
 <div>
-    <img src="./imgs/example_1.png" alt="Two Pointers Example 1" width="400" />
+    <img src="./imgs/example_1.png" alt="Two Pointers Example 1" width="100%" />
     <span>When checking if a string is a palindrome, we can use two pointers moving towards the middle from both ends, ensuring the values match.</span>
 </div>
 <br/>
 <!-- ![Two Pointers Example 2](./imgs/example_2.png) -->
 <div>
-    <img src="./imgs/example_2.png" alt="Two Pointers Example 2" width="400" />
+    <img src="./imgs/example_2.png" alt="Two Pointers Example 2" width="100%" />
     <span>When reversing an array, we can use two pointers moving towards the middle from both ends, switching the values at the two pointers.</span>
 </div>
 
