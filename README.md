@@ -40,9 +40,8 @@ Common algorithmic patterns and their use-cases:
 
 ### `leetcode/`
 Solutions to coding problems I've attempted, with comments and explanations when possible. Problem files are named by their LeetCode number and title, like:
-- `001-two-sum.js`
-- `021-merge-two-sorted-lists.py`
-- `104-maximum-depth-of-binary-tree.ts`
+- `001_two_sum.py`
+- `021_merge_two_sorted_lists.py`
 
 ---
 
@@ -72,7 +71,7 @@ This repo is a work-in-progress learning log. Some code may be rough, incomplete
 ## 📌 Notes to Self
 
 - Commit regularly to stay consistent.
-- Don’t worry about perfection—focus on learning.
+- Don’t worry about perfection. Focus on learning.
 - Revisit and revise old solutions to improve over time.
 
 ---
