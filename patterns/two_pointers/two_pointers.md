@@ -7,10 +7,14 @@
 - The pointers can go in one or two directions
 
 ### Example
-![Two Pointers Example 1](./imgs/example_1.png)
+<!-- ![Two Pointers Example 1](./imgs/example_1.png) -->
+<img src="./imgs/example_1.png" alt="Two Pointers Example 1" width="400" />
+<br />
 When checking if a string is a palindrome, we can use two pointers moving towards the middle from both ends, ensuring the values match.
 
-![Two Pointers Example 2](./imgs/example_2.png)
+<!-- ![Two Pointers Example 2](./imgs/example_2.png) -->
+<img src="./imgs/example_2.png" alt="Two Pointers Example 2" width="400" />
+<br />
 When reversing an array, we can use two pointers moving towards the middle from both ends, switching the values at the two pointers.
 
 ### Use this pattern if:
