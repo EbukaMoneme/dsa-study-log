@@ -8,14 +8,16 @@
 
 ### Example
 <!-- ![Two Pointers Example 1](./imgs/example_1.png) -->
-<img src="./imgs/example_1.png" alt="Two Pointers Example 1" width="400" />
-<br />
-When checking if a string is a palindrome, we can use two pointers moving towards the middle from both ends, ensuring the values match.
-
+<div>
+    <img src="./imgs/example_1.png" alt="Two Pointers Example 1" width="400" />
+    <span>When checking if a string is a palindrome, we can use two pointers moving towards the middle from both ends, ensuring the values match.</span>
+</div>
+<br/>
 <!-- ![Two Pointers Example 2](./imgs/example_2.png) -->
-<img src="./imgs/example_2.png" alt="Two Pointers Example 2" width="400" />
-<br />
-When reversing an array, we can use two pointers moving towards the middle from both ends, switching the values at the two pointers.
+<div>
+    <img src="./imgs/example_2.png" alt="Two Pointers Example 2" width="400" />
+    <span>When reversing an array, we can use two pointers moving towards the middle from both ends, switching the values at the two pointers.</span>
+</div>
 
 ### Use this pattern if:
 
