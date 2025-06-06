@@ -14,6 +14,8 @@
 
 # Time Complexity: O(n) -> because you map through the entire array nums
 # Space Complexity: O(n) —> because you could add every value of the array into the hashmap
+# Data Structure: Array
+# Solution Pattern: Hashmap/Dictionary
 # Method
     # For each value check if `target - value` is present in the hash map
     # Yes? return the current index + values’ index
