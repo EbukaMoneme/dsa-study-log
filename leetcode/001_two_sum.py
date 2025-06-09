@@ -20,6 +20,7 @@
     # For each value check if `target - value` is present in the hash map
     # Yes? return the current index + values’ index
     # No? add the value (key) and index (value) to the hash map
+
 # Solution using enumerate:
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
