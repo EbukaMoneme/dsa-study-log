@@ -18,3 +18,8 @@
 <div>
     <img src="./imgs/example_2.png" alt="Sliding Window Example 2" width="100%" />
 </div>
+
+### Use this pattern if:
+
+- The problem requires repeated computations on a contiguous set of data elements (a subarray or a substring)
+- The size of the window may be fixed or variable, depending on the requirements of the problem
